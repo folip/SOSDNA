@@ -7,7 +7,7 @@ For a live demo, visit http://192.144.226.158/:
 
 ![app](https://github.com/WangLabTHU/SOSDNA/blob/main/webapp.jpg)
 
-In case that the web app can't be used remotely, you can also:
+In case that the web app doesn't response, you can also:
 
 ### Run the web app locally 
 
