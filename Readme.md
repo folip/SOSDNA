@@ -15,7 +15,7 @@ For a live demo, visit http://192.144.226.158/
 git clone https://github.com/WangLabTHU/SOSDNA
 
 # install packages
-pip install matplotlib, numpy, plotly, seaborn, streamlit, scipy, reedsolo, prettytable
+pip install matplotlib numpy plotly seaborn streamlit scipy reedsolo prettytable
 
 ```
 
