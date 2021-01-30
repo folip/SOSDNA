@@ -4,7 +4,9 @@
 
 ### Live Demo
 For a live demo, visit http://192.144.226.158/:
-![app](https://github.com/WangLabTHU/SOSDNA/edit/main/Readme.md)
+
+![app](https://github.com/WangLabTHU/SOSDNA/blob/main/webapp.jpg)
+
 In case that the web app can't be used remotely, you can also:
 
 ### Running the web app locally 
