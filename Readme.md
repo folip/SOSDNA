@@ -9,7 +9,7 @@ For a live demo, visit http://192.144.226.158/:
 
 In case that the web app can't be used remotely, you can also:
 
-### Running the web app locally 
+### Run the web app locally 
 
 **Clone or download this repository, and install the dependencies:**
 
@@ -35,7 +35,7 @@ streamlit run main.py
 Navigate to [localhost:8501](https://localhost:8501/). You should see the app running in your broswer :)
 
 
-### Using jupyter notebooks
+### Use jupyter notebooks
 
 Download the project and install the dependencie following the instructions above, and run the notebooks. Notebooks include:
 
