@@ -3,9 +3,9 @@
 ## Getting started
 
 ### Live Demo
-
-For a live demo, visit http://192.144.226.158/
-
+For a live demo, visit http://192.144.226.158/:
+![webapp](webapp.jpg)
+In case that the web app can't be used remotely, you can also:
 
 ### Running the web app locally 
 
@@ -15,6 +15,7 @@ For a live demo, visit http://192.144.226.158/
 git clone https://github.com/WangLabTHU/SOSDNA
 
 # install packages
+# under python 3.x
 pip install matplotlib numpy plotly seaborn streamlit scipy reedsolo prettytable
 
 ```
@@ -24,7 +25,7 @@ pip install matplotlib numpy plotly seaborn streamlit scipy reedsolo prettytable
 ```bash
 
 # move to the project folder
-cd download/SOSDNA
+cd download/SOSDNA main
 
 streamlit run main.py
 ```
