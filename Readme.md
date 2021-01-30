@@ -9,13 +9,10 @@ For a live demo, visit http://192.144.226.158/
 
 ### Running the web app locally 
 
-**Clone or download this repository, and install the dependencies: **
+**Clone or download this repository, and install the dependencies:**
 
 ```bash
 git clone https://github.com/WangLabTHU/SOSDNA
-
-# move to the project folder
-cd download/SOSDNA
 
 # install packages
 pip install matplotlib, numpy, plotly, seaborn, streamlit, scipy, reedsolo, prettytable
@@ -25,6 +22,10 @@ pip install matplotlib, numpy, plotly, seaborn, streamlit, scipy, reedsolo, pret
 **Navigate to the project folder,  and run the app:**
 
 ```bash
+
+# move to the project folder
+cd download/SOSDNA
+
 streamlit run main.py
 ```
 
