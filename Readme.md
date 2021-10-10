@@ -1,4 +1,4 @@
-# SOS-DNA: a systematic error Simulation and encoding Optimization System for DNA data storage channel 
+# Model-D2S: a systematic error simulation Model for DNA Data Storage channel
 
 ## Getting started with the web app
 
