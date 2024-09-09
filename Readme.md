@@ -3,9 +3,7 @@
 ## Getting started
 
 ### Live Demo
-For a live demo, visit http://192.144.226.158/ (server located in Beijing, China) or http://170.106.110.86/ (Silicon Valley, US)
-
-![app](https://github.com/WangLabTHU/SOSDNA/blob/main/webapp.jpg)
+For a live demo, visit http://170.106.110.86/ 
 
 In case that the web app doesn't response, you can also:
 
